@@ -7,3 +7,5 @@ Features:
 * Items to pick up (Health, Air, Points, Shrink)
 * Some enemies can dodge
 * Self-developed sounds and graphics
+
+Play the game here: https://umfi.github.io/gdd1_shmup/
